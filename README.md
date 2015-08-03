@@ -14,8 +14,5 @@ LED와 스위치를 이용해서 간단하게 만드는 크리스마스 카드
 
 준비물
 --------------
-![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_ChristmasCard/master/img/card02.jpg)
+![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_ChristmasCard/master/img/card02.png)
 
-제작영상
---------------
-[![ScreenShot](https://raw.githubusercontent.com/makezonefablab/HungryBot/master/img/vimeo.png)](https://vimeo.com/102814242)
